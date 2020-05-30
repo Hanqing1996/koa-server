@@ -21,10 +21,8 @@ node index.js
 #### 云服务器
 * 使用 阿里云
 * [阿里云添加,绑定秘钥](https://help.aliyun.com/document_detail/51793.html?spm=a2c4g.11186623.6.878.71414737qnnxS8)
-* [本地远程登录](https://help.aliyun.com/document_detail/51798.html?spm=a2c4g.11186623.2.12.6c0a388dlhTNzK#concept-ucj-wrx-wdb)（使用 Git Bash）
-```
-ssh -i ~/.ssh/my_ssh.pem root@39.103.129.212
-```
+* xshell 登录
+> 不需要输入密码
 
 ### 部署面向公网的服务
 1. 更新依赖
